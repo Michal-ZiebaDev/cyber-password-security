@@ -1,4 +1,3 @@
-```python
 from password_tool import password_score, password_rating
 
 def analyze_file(filename: str):
