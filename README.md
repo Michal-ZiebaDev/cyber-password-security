@@ -17,6 +17,7 @@ Simple password strength analyzer written in Python. The goal of this project is
 
 ```bash
 python password_tool.py
+```
 
 ## Example
 
