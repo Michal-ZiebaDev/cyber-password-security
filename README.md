@@ -17,3 +17,17 @@ Simple password strength analyzer written in Python. The goal of this project is
 
 ```bash
 python password_tool.py
+
+## Example
+
+Input:
+Enter password to analyze: MyPass123!
+
+Output:
+Score: 5/6
+Strength: Strong
+
+## Author
+
+**Michał Zięba**  
+GitHub: [Michal-ZiebaDev](https://github.com/Michal-ZiebaDev)
