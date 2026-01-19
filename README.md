@@ -28,6 +28,19 @@ Output:
 Score: 5/6
 Strength: Strong
 
+## Batch Mode (Multiple Password Analysis)
+
+You can analyze multiple passwords from a file:
+
+1. Add your passwords to `passwords.txt`
+2. Run:
+
+```bash
+python password_batch.py
+```
+
+The program prints a rating for each password and a final summary (Weak / Medium / Strong count).
+
 ## Author
 
 **Michał Zięba**  
