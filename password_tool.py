@@ -1,4 +1,3 @@
-```python
 import string
 
 def password_score(password: str) -> int:
